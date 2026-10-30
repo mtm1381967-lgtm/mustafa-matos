@@ -1,0 +1,6 @@
+{
+  "name": "تليكوم تيك HR",
+  "description": "منظومة متكاملة لإدارة الموارد البشرية والوظائف، تخطيط المسارات المهنية، التدريب والتطوير، وتقييم الأداء الذكي لشركات الاتصالات والتقنية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
